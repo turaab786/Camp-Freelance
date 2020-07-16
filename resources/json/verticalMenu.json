@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "url": "dashboard",
+      "name": "Dashboard",
+      "icon": "feather icon-home"
+    },
+    {
+      "url": "",
+      "navheader": "Help & Support",
+      "icon": ""
+    },
+    {
+      "url": "support-category",
+      "name": "Category",
+      "icon": "fa fa-sitemap"
+    },
+    {
+      "url": "support-article",
+      "name": "Article",
+      "icon": "fa fa-question-circle-o"
+    }
+  ]
+}
